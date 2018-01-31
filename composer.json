@@ -1,0 +1,9 @@
+{
+    "name": "smartbill/smartbill",
+    "type": "library",
+    "autoload": {
+        "classmap": [
+            "SmartBillCloudRestClient.php"
+        ]
+    }
+}
